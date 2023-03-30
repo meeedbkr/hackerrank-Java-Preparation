@@ -1,6 +1,6 @@
 # Hackerrank Java Preparation
 
-This repository contains solutions to various Java problems on [Hackerrank](https://www.hackerrank.com/domains/Java). The problems are categorized by their difficulty level, and each solution is provided in a separate file with a descriptive name.
+This repository contains solutions to various Java problems on [Hackerrank](https://www.hackerrank.com/domains/java). The problems are categorized by their difficulty level, and each solution is provided in a separate file with a descriptive name.
 
 ## Usage
 
