@@ -1,0 +1,17 @@
+# Java class files
+*.class
+
+# Compiled class files
+bin/
+
+# JAR files
+*.jar
+
+# IDE files
+/.idea/
+*.iml
+*.ipr
+*.iws
+*.classpath
+*.project
+*.settings/
